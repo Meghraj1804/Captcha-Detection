@@ -1,0 +1,11 @@
+captcha
+numpy
+Pillow
+pandas
+scikit-learn
+torch 
+torchvision
+matplotlib
+opencv-python
+gradio
+-e .
